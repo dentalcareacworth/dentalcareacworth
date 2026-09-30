@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dentalcareacworth.netlify.app/sitemap.xml
